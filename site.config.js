@@ -8,6 +8,7 @@ const CONFIG = {
     email: "nadvnnie@gmail.com",
     linkedin: "nadiavnn",
     github: "itsybitsycyber",
+    twitter: "itsybitsycyber",
     instagram: "",
   },
   projects: [
@@ -18,7 +19,7 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "ItsyBitsyCyber 🕸",
+    title: "ItsyBitsyCyber",
     description: "Welcome to my blog!",
     theme: "auto", // ['light', 'dark', 'auto']
   },
